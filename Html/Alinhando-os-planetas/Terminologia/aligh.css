@@ -1,0 +1,20 @@
+/* .flexbox {
+  display: flex;
+  flex-direction: column;
+}
+
+.item:nth-child(2) {
+  order: 2;
+} */
+
+/* .container {
+  display: flex;
+  border: 1px solid brown;
+  height: 200px;
+}
+
+.item {
+  background-color: gray;
+  border: solid 1px rgb(0, 0, 0);
+  flex: 1;
+} */

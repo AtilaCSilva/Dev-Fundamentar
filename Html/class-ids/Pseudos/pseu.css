@@ -1,0 +1,39 @@
+/* ul li:first-child {        "FIRST-CHILD"
+  font-weight: bold;
+  color: brown;
+  text-decoration: underline;
+} */
+
+/* article p:nth-of-type(2) {     "NTH-OF-TYPE"
+  padding: 20px;
+  color: aquamarine;
+} */
+
+/* article p:nth-child(1) {           "NTH-CHILD"
+  border: 2px dashed green;
+  text-transform: uppercase;
+} */
+
+/* ul li:nth-child(odd) {                  "ODD-EVEN"
+  background-color: #eeef;
+}
+
+ul li:nth-child(even) {
+  font-weight: 500;
+  color: gray;
+} */
+
+/* input:focus {                              "HOVER-FOCUS"
+  border-color: blue;
+  outline: none;
+}
+button:hover {
+  color: #edf;
+  cursor: pointer;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(0, 212, 255, 1) 80%
+  );
+} */

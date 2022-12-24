@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+p {
+  width: 100vw;
+
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: normal;
+  font-style: oblique;
+  font-size: 1.4em;
+
+  font-stretch: expanded;
+  font-variant: small-caps;
+  line-height: 1em;
+  text-transform: lowercase;
+  text-decoration: underline dashed violet;
+  text-align: center;
+  text-shadow: 0.7px 0.6px 0.5px blue;
+}

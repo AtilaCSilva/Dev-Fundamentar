@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+
+main {
+  color: white;
+  padding: 16px;
+
+  background-color: hsl(270, 63%, 6%);
+  background-image: url(https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 24rem;
+  background-origin: padding-box;
+  background-attachment: fixed;
+
+  background: linear-gradient(rgba(170, 0, 204, 0.275), rgba(51, 0, 153, 0.268)),
+    url(https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100)
+      no-repeat center / 24rem content-box fixed;
+}

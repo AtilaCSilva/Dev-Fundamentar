@@ -1,0 +1,22 @@
+<div class="content">
+  <span>A</span>
+  <span>B</span>
+  <span>C</span>
+  <span>D</span>
+</div>
+
+<style>
+  .content {
+    display: flex;
+    width: 100%;
+
+    border: 1px dotted red;
+  }
+  .content span {
+    border: 1px solid;
+    flex-basis: auto;
+  }
+  .content span :nth-child(2) {
+    width: 240px;
+  }
+</style>

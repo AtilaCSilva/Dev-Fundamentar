@@ -1,0 +1,19 @@
+/* body  article  h2 {            "Combinator"
+  color: blue;
+} */
+
+/* body > ul > li {               "Child Combinator"
+  color: green;
+  font-size: 1.5em;
+  font-weight: 400;
+  font-style: italic;
+  font-variant: small-caps;
+} */
+
+/* h1 + p {                      "Subling Combinator"
+  color: yellowgreen;
+} */
+
+/* main ~ button {               "Geranal Subling Combinator"
+  color: aquamarine;
+} */

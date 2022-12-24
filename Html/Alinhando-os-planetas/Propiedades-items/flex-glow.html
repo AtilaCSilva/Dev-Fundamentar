@@ -1,0 +1,25 @@
+<div class="content">
+  <span>A</span>
+  <span>B</span>
+  <span>C</span>
+  <span>D</span>
+</div>
+
+<style>
+  .content {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 180px;
+
+    border: 1px dashed red;
+  }
+  .content span {
+    border: 1px solid;
+  }
+
+  .content span:nth-child(2),
+  .content span:nth-child(3) {
+    flex-grow: 1;
+  }
+</style>
